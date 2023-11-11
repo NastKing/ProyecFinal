@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GestorDeClientesGUI",
+            "request": "launch",
+            "mainClass": "GestorDeClientesGUI",
+            "projectName": "Cafeteria_9c9729d"
+        },
+        {
+            "type": "java",
+            "name": "Venta",
+            "request": "launch",
+            "mainClass": "Venta",
+            "projectName": "Cafeteria_9c9729d"
+        },
+        {
+            "type": "java",
+            "name": "Mainprograma",
+            "request": "launch",
+            "mainClass": "Mainprograma",
+            "projectName": "Cafeteria_9c9729d"
+        },
+        {
+            "type": "java",
+            "name": "Cafeteria",
+            "request": "launch",
+            "mainClass": "Cafeteria",
+            "projectName": "Cafeteria_9c9729d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "cafeteria",
+            "request": "launch",
+            "mainClass": "cafeteria",
+            "projectName": "Cafeteria_9c9729d"
+        }
+    ]
+}
